@@ -1,0 +1,6 @@
+This is a sample file.
+This will be used to understand
+the file handling capability
+
+This is a line after a blank line
+or a paragraph.
